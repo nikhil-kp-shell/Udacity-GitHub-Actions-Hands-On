@@ -1,5 +1,5 @@
 namespace: 
-  name: demo
+  name: demo2
 replica:
   count: 3
 image:
